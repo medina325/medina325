@@ -16,11 +16,11 @@
 
 <style>
     h1 {
-        color: #00EFFFDD
+        color: #00EFFFDD;
     }
 
     h2 {
-        color: rgba(150, 200, 200, 1)
+        color: rgba(150, 200, 200, 1);
     }
 
 </style>
