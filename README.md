@@ -11,5 +11,5 @@
 - 🤔 I’m looking for help with finding EXACTLY what to do with my career 🐌
 - 📫 How to reach me: medina_cdz@hotmail.com, gabriel.medina@ufms.br
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: <a href="https://www.google.com/search?q=gabriel+medina&sxsrf=ALeKk025hlinwEQLAHsJ5WOOEdh2e3g7cg:1597159847204&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_9t2KvJPrAhUtEbkGHSyQDBYQ_AUoAXoECBsQAw&biw=1366&bih=625" target="_blank>**I won't get mad if you ask me if I surf**</a>
+- ⚡ Fun fact: [**I won't get mad if you ask me if I surf**](https://www.google.com/search?q=gabriel+medina&sxsrf=ALeKk025hlinwEQLAHsJ5WOOEdh2e3g7cg:1597159847204&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_9t2KvJPrAhUtEbkGHSyQDBYQ_AUoAXoECBsQAw&biw=1366&bih=625)
 - 💜 Loving: Getting deeper into C++ and JavaScript, 🎼 Arpejos 🎸, and also Kattie R.
