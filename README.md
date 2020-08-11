@@ -3,7 +3,7 @@
 
 # I'm Gabriel Medina Braga 👋
 
-## Bachelor of Computer Engineering @ UFMS, Guitar Player, and Gamer!
+## Computer Engineering Student @ UFMS, Guitar Player, and Gamer!
 
 - 🔭 I’m currently working on Project 1 from CS50's Web Programming with Python and Javascript's online course
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL and now, Markdown thanks to this README 
