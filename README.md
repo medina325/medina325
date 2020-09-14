@@ -6,7 +6,7 @@
 ## Computer Engineering Student @ UFMS, Guitar Player, and Gamer!
 
 - 🔭 I’m currently working on Project 1 from CS50's Web Programming with Python and Javascript's online course
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL and now, Markdown thanks to this README 
+- 🌱 I’m currently learning about Network Architecture, HTML, CSS, JavaScript, SQL and now, Markdown thanks to this README 
 - 👯 I’m looking to collaborate on any programming project 🐙
 - 🤔 I’m looking for help with finding EXACTLY what to do with my career 🐌
 - 📫 How to reach me: medina_cdz@hotmail.com, gabriel.medina@ufms.br
