@@ -6,7 +6,7 @@
 ## Computer Engineering Student @ UFMS, Guitar Player, and Gamer!
 
 - 🔭 I’m currently working on Project 3 from CS50's Web Programming with Python and Javascript's online course
-- 🌱 I’m currently learning about Network Architecture, design patterns, levantamento de requisitos, JavaScript 
+- 🌱 I’m currently learning about Wireless and Wireless and Wired Network Protocolos, JavaScript, Design Patterns, Requirements Engineering 
 - 👯 I’m looking to collaborate on any programming project 🐙
 - 🤔 I’m looking for help with finding EXACTLY what to do with my career 🐌
 - 📫 How to reach me: medina_cdz@hotmail.com, gabriel.medina@ufms.br
