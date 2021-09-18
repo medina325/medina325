@@ -5,8 +5,8 @@
 
 ## Computer Engineering Student @ UFMS, Guitar Player, and Gamer!
 
-- 🔭 I’m currently working on my Final Project for CS50's Web Programming with Python and Javascript's online course
-- 🌱 I’m currently learning about AI and React.js
+- 🔭 I’m currently working on my Final Project for CS50's Web Programming with Python and Javascript's online course - Wiresis
+- 🌱 I’m currently learning about AI (Machine Learning :heavy_check_mark:, Computer Vision :eyes:), React.js and Django Rest Framework
 - 👯 I’m looking to collaborate on any programming project 🐙
 - 🤔 I’m looking for help with finding EXACTLY what to do with my future career 🐌
 - 📫 How to reach me: medina_cdz@hotmail.com, gabriel.medina@ufms.br
