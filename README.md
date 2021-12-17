@@ -6,9 +6,8 @@
 ## Computer Engineering Student @ UFMS, Guitar Player, and Gamer!
 
 - 🔭 I’m currently working on my Final Project for CS50's Web Programming with Python and Javascript's online course - Wiresis
-- 🌱 I’m currently learning about AI (Machine Learning :heavy_check_mark:, Computer Vision :eyes:), React.js and Django Rest Framework
-- 👯 I’m looking to collaborate on any programming project 🐙
-- 🤔 I’m looking for help with finding EXACTLY what to do with my future career 🐌
+- 🌱 I’m currently learning about AI (Machine Learning :heavy_check_mark:, Computer Vision :eyes:), React.js
+- 👯 I’m looking to collaborate on any project 🐙
 - 📫 How to reach me: medina_cdz@hotmail.com, gabriel.medina@ufms.br
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [**I won't get mad if you ask me if I surf**](https://www.google.com/search?q=gabriel+medina&sxsrf=ALeKk025hlinwEQLAHsJ5WOOEdh2e3g7cg:1597159847204&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_9t2KvJPrAhUtEbkGHSyQDBYQ_AUoAXoECBsQAw&biw=1366&bih=625)
