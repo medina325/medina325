@@ -6,9 +6,10 @@
 ## Computer Engineer, Guitar Player, and Gamer!
 
 - 🔭 Currently working from home :house: as a software and data engineer.
-- 🔭 I’m currently working on my Final Project for CS50's Web Programming with Python and Javascript's online course
+- 🔭 I’m currently working on my Final Project for CS50's Web Programming with Python and Javascript's online course.
 - 🌱 Currently reading "Getting Started with Data Science: Making Sense of Data with Analytics" by Murtaza Haider.
 - 🌱 Currently reading "Scrum: The Art of Doing Twice the Work in Half the Time" by J. J. Sutherland.
+- :notebook: Currently reading Death Note.
 - 👯 I’m looking to collaborate on data science / AI projects, with emphasis on computer vision and NLP. 🐙
 - 📫 How to reach me: medina_cdz@hotmail.com, gabriel.medina@ufms.br
 - 😄 Pronouns: He/him
