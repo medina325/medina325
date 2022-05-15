@@ -3,7 +3,7 @@
 
 # I'm Gabriel Medina Braga 👋
 
-## Computer Engineer, Guitar Player, and Gamer!
+## Computer Engineer, Guitar Player, and Gamer.
 
 - 🔭 Currently working from home :house: as a software and data engineer.
 - 🔭 I’m currently working on my Final Project for CS50's Web Programming with Python and Javascript's online course.
