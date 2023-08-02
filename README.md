@@ -79,6 +79,12 @@ Obs.: Yeah, I know computers don't care if our code is beautiful or... do they? 
 )
 
 <!--
+Useful links for the next time I'm editing this
+https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+
+-->
+
+<!--
 ### Academic information
 #### Research
  - Publications: https://www.researchgate.net/profile/Mario-Carvalho-11
