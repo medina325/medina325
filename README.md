@@ -78,6 +78,10 @@ Obs.: Yeah, I know computers don't care if our code is beautiful or... do they? 
 ![Jira](https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&labelColor=blue
 )
 
+Ok back to work now 🙂!
+
+![Snake animation](https://github.com/GraMatsuda/GraMatsuda/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 Useful links for the next time I'm editing this
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md
