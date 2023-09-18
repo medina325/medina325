@@ -19,7 +19,7 @@ Obs.: Yeah, I know computers don't care if our code is beautiful or... do they? 
 ### GitHub Statistics:
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=medina325&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medina325&layout=compact&theme=maroongold"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medina325&layout=pie&theme=maroongold&include_all_commits=true&&size_weight=0.5&count_weight=0.65&langs_count=9"/>
 </div>
 
 ### Technologies I use:
