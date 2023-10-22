@@ -3,7 +3,7 @@
 
 # I'm Gabriel Medina Braga 👋
 
-I like to treat programming like art 🎨, and see things working beautifully when put together.
+I like to treat programming as art 🎨, and see things working beautifully when put together.
 
 Obs.: Yeah, I know computers don't care if our code is beautiful or... do they? 🤖🤖🤖
 
